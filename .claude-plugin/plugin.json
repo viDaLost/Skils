@@ -1,0 +1,10 @@
+{
+  "name": "vidalost-skills",
+  "description": "Personal collection of frontend design skills: taste-skill family, impeccable, and a DESIGN.md brand library.",
+  "version": "1.0.0",
+  "author": {
+    "name": "viDaLost"
+  },
+  "repository": "https://github.com/viDaLost/Skils",
+  "skills": "./.claude/skills/"
+}
